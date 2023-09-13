@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, R, SQL, and HTML
 - 📫 You can reach me via LinkedIn
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlyssaWard-green)](https://www.linkedin.com/in/alyssa-ward-a70882169)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alyssa Ward-green)](https://www.linkedin.com/in/alyssa-ward-a70882169)
 
 
               
